@@ -1,0 +1,40 @@
+#Login-area{
+    margin-top: 100px;
+}
+.submit{
+    width: 600px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+    border-radius: 10px;
+}
+.dashboardDeposit{
+    box-shadow: 5px 5px 10px gray;
+    padding: 30px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+.edit{
+    margin: 20px 0px;
+}
+.headingTop{
+    margin-bottom: 50px;
+}
+#dashboard-area{
+    display: none;
+}
+.unique{
+    color: #fff;
+    padding: 30px;
+    margin-top: 70px;
+}
+.deposit{
+    background-color: tomato;
+
+}
+.withdraw{
+    background-color: green;
+}
+.balance{
+    background-color: navy;
+}
